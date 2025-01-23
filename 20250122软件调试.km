@@ -1,0 +1,194 @@
+{
+    "root": {
+        "data": {
+            "id": "d76qbvdv9bs0",
+            "created": 1737358897952,
+            "text": "软件调试问题与需求"
+        },
+        "children": [
+            {
+                "data": {
+                    "id": "d76qnm8n00o0",
+                    "created": 1737359818414,
+                    "text": "问题1，软件进入很无聊",
+                    "expandState": "expand"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "d76qby67x8w0",
+                            "created": 1737358904020,
+                            "text": "需求，增加加载页面"
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "d76qo1b17a80",
+                    "created": 1737359851211,
+                    "text": "问题2，导入多组数据时，数据之间缺少区分",
+                    "expandState": "expand"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "d76qcbf5zds0",
+                            "created": 1737358932859,
+                            "text": "需求，增加导入数据时间等信息"
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "d76qokqdtyg0",
+                    "created": 1737359893498,
+                    "text": "问题3，无法导入多组数据",
+                    "expandState": "expand"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "d76qco313280",
+                            "created": 1737358960423,
+                            "text": "需求，将导入数据模式由替换改成延续"
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "d76qp2ojywg0",
+                    "created": 1737359932569,
+                    "text": "问题4，实验数据画图时，无法通过曲线区分实验数据"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "d76qrbwznlc0",
+                            "created": 1737360109399,
+                            "text": "需求1，增加实验数据勾选功能，点击画图按钮，画出勾选的曲线"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "d76qs4u4nq80",
+                            "created": 1737360172353,
+                            "text": "需求2，取消多选功能，只能单选"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "d76qssvejfk0",
+                            "created": 1737360224672,
+                            "text": "需求3，增加双击画图功能"
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "d7878koto140",
+                    "created": 1737508158402,
+                    "text": "问题5，查看数据库功能没用"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "d7878v4tco80",
+                            "created": 1737508181137,
+                            "text": "需求1，删除查看数据库功能"
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "d78792w95uo0",
+                    "created": 1737508198033,
+                    "text": "问题6，标题文字位置和颜色要修改"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "d7879exjgrk0",
+                            "created": 1737508224233,
+                            "text": "需求1，标题文字位置居左和标红"
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "d7879p6afyg0",
+                    "created": 1737508246529,
+                    "text": "问题7，需要曲线求平均"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "d787wbo57740",
+                            "created": 1737510019510,
+                            "text": "需求1，增加数据处理栏"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "d787wotseq00",
+                                    "created": 1737510048149,
+                                    "text": "完成曲线对零点"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "d7881120ohc0",
+                                    "created": 1737510388225,
+                                    "text": "先对x再对y，且两个结果都需要给出"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "d7879ycrazk0",
+                            "created": 1737508266512,
+                            "text": "需求2，增加求平均栏"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "d787a3oc5f40",
+                                    "created": 1737508278096,
+                                    "text": "数据库删除数据的功能"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "d787afdmfwg0",
+                                    "created": 1737508303569,
+                                    "text": "后续对标，可以对平均数据和原始数据对标"
+                                },
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "template": "right",
+    "theme": "classic-compact",
+    "version": "1.4.43"
+}
